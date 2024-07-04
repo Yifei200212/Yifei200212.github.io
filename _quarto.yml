@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "Yifei's Homepage"
+  navbar:
+    left:
+      - href: profile.qmd
+        text: Profile
+      - href: edu.qmd
+        text: Education
+      - href: exp.qmd
+        text: Experience
+    #  - href: onelayernn.qmd
+    #    text: Machine Learning Methods 
+format: 
+  html: 
+    theme: cosmo
+    toc: true
