@@ -2,29 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Homepage",
+    "title": "Yifei’s Homepage",
     "section": "",
-    "text": "Yifei200212.github.io@github.io"
+    "text": "Xi’an Jiaotong-liverpool University Suzhou, Jiangsu\nBachelor of Biomedical Statistics Sep 2021 - Jun 2025\nGPA: 3.8/4.0 TOP 10%\nRelevant Coursework: Introduction to clinical trials, Phamacology, Medical Chemistry, Epidemiology, Biopharmaceutical and Pharmacokinetics, Biostatistics, Pharmaceutical Administration and Regulations"
   },
   {
-    "objectID": "index.html#title",
-    "href": "index.html#title",
-    "title": "Homepage",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yifei’s Homepage",
     "section": "",
-    "text": "Yifei200212.github.io@github.io"
+    "text": "Xi’an Jiaotong-liverpool University Suzhou, Jiangsu\nBachelor of Biomedical Statistics Sep 2021 - Jun 2025\nGPA: 3.8/4.0 TOP 10%\nRelevant Coursework: Introduction to clinical trials, Phamacology, Medical Chemistry, Epidemiology, Biopharmaceutical and Pharmacokinetics, Biostatistics, Pharmaceutical Administration and Regulations"
   },
   {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "Homepage",
-    "section": "Quarto",
-    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Yifei’s Homepage",
+    "section": "Research Experience",
+    "text": "Research Experience\nAcademy of Pharmacy, Xi’an Jiaotong - Liverpool University Suzhou, Jiangsu\nImproving online health surveys in China- A Randomized Controlled Trial July 2023 - Present\nR,SPSS,EXCEL\n• Project Design and Implementation: Responsible for planning and executing the overall RCT experimental process, including sample selection, data collection, and preliminary data analysis.\n• Clinical Trial Registration and Ethical Approval: Registered a clinical experiment with the China Clinical Trials Registry (ChiCTR) and navigated the ethical approval process.\n• Academic Output: Authored and submitted a research paper on the RCT study, detailing the optimization process of the data collection platform and its significant impact on data quality.\nThe Autism Research Center, Soochow University Suzhou, Jiangsu\nA study on the event-related potential (ERP) in autistic patients March 2023 - June\nR, Zotero Neurophysiological Research Project Supervised by Prof. Deming Shu\n• Literature Review: Conducted comprehensive literature reviews to maintain a solid foundation of knowledge in the field.\n• Data Visualization and Analysis: Created graphs based on research data and analyzed differences in EEG patterns of children with autism before and after sensory integration training interventions.\n• Collaborative Paper Writing: Contributed to the writing of academic papers, synthesizing research findings and analysis.\n“Intervention Effect of Group Sensory Integration Training on Social Responsiveness and N170 Event-Related Potential of Children with Autism” (published in the “Behavioral Science” journal)\nhttps://pubmed.ncbi.nlm.nih.gov/38540505/"
   },
   {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "Homepage",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "index.html#project-experience",
+    "href": "index.html#project-experience",
+    "title": "Yifei’s Homepage",
+    "section": "Project Experience",
+    "text": "Project Experience"
+  },
+  {
+    "objectID": "index.html#habit",
+    "href": "index.html#habit",
+    "title": "Yifei’s Homepage",
+    "section": "Habit",
+    "text": "Habit"
   }
 ]

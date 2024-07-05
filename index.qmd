@@ -1,30 +1,42 @@
 ---
-title: "Homepage"
+title: "Yifei's Homepage"
 format: html
 editor: visual
 ---
 
-## Title
-Yifei200212.github.io@github.io
+## Education
 
+::: {align="center"}
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Xi’an Jiaotong-liverpool University** Suzhou, Jiangsu                                                                                                                                                      | ![](images/cb-03.jpg){width="15000"} |
+|                                                                                                                                                                                                              |                                      |
+| *Bachelor of Biomedical Statistics* Sep 2021 - Jun 2025                                                                                                                                                      |                                      |
+|                                                                                                                                                                                                              |                                      |
+| **GPA**: 3.8/4.0 TOP 10%                                                                                                                                                                                     |                                      |
+|                                                                                                                                                                                                              |                                      |
+| **Relevant Coursework**: Introduction to clinical trials, Phamacology, Medical Chemistry, Epidemiology, Biopharmaceutical and Pharmacokinetics, Biostatistics, Pharmaceutical Administration and Regulations |                                      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+:::
 
-## Quarto
+## Research Experience
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+**Academy of Pharmacy, Xi'an Jiaotong - Liverpool University**    Suzhou, Jiangsu\
+**Improving online health surveys in China- A Randomized Controlled Trial**     July 2023 - Present\
+*R,SPSS,EXCEL*\
+• Project Design and Implementation: Responsible for planning and executing the overall RCT experimental process, including sample selection, data collection, and preliminary data analysis.\
+• Clinical Trial Registration and Ethical Approval: Registered a clinical experiment with the China Clinical Trials Registry (ChiCTR) and navigated the ethical approval process.\
+• Academic Output: Authored and submitted a research paper on the RCT study, detailing the optimization process of the data collection platform and its significant impact on data quality.
 
-## Running Code
+**The Autism Research Center, Soochow University**     Suzhou, Jiangsu\
+**A study on the event-related potential (ERP) in autistic patients**     March 2023 - June\
+*R, Zotero* Neurophysiological Research Project Supervised by Prof. Deming Shu\
+• Literature Review: Conducted comprehensive literature reviews to maintain a solid foundation of knowledge in the field.\
+• Data Visualization and Analysis: Created graphs based on research data and analyzed differences in EEG patterns of children with autism before and after sensory integration training interventions.\
+• Collaborative Paper Writing: Contributed to the writing of academic papers, synthesizing research findings and analysis.\
+“Intervention Effect of Group Sensory Integration Training on Social Responsiveness and N170 Event-Related Potential of Children with Autism” (published in the “Behavioral Science” journal)
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+<https://pubmed.ncbi.nlm.nih.gov/38540505/>
 
-```{r}
-1 + 1
-```
+## Project Experience
 
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+## Habit
