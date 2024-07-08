@@ -6,12 +6,12 @@ website:
   title: "Yifei's Homepage"
   navbar:
     left:
-      - href: profile.qmd
-        text: Profile
       - href: edu.qmd
         text: Education
       - href: exp.qmd
         text: Experience
+      - href: habit.qmd
+        text: Habit
     #  - href: onelayernn.qmd
     #    text: Machine Learning Methods 
 format: 
