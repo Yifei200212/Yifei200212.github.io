@@ -1,0 +1,36 @@
+---
+title: "Experience"
+format: html
+editor: visual
+---
+
+## Research Experience
+
+**Academy of Pharmacy, Xi'an Jiaotong - Liverpool University** Suzhou, Jiangsu\
+**Improving online health surveys in China- A Randomized Controlled Trial** July 2023 - Present\
+*R,SPSS,EXCEL*\
+• Project Design and Implementation: Responsible for planning and executing the overall RCT experimental process, including sample selection, data collection, and preliminary data analysis.\
+• Clinical Trial Registration and Ethical Approval: Registered a clinical experiment with the China Clinical Trials Registry (ChiCTR) and navigated the ethical approval process.\
+• Academic Output: Authored and submitted a research paper on the RCT study, detailing the optimization process of the data collection platform and its significant impact on data quality.
+
+**The Autism Research Center, Soochow University** Suzhou, Jiangsu\
+**A study on the event-related potential (ERP) in autistic patients** March 2023 - June\
+*R, Zotero* Neurophysiological Research Project Supervised by Prof. Deming Shu\
+• Literature Review: Conducted comprehensive literature reviews to maintain a solid foundation of knowledge in the field.\
+• Data Visualization and Analysis: Created graphs based on research data and analyzed differences in EEG patterns of children with autism before and after sensory integration training interventions.\
+• Collaborative Paper Writing: Contributed to the writing of academic papers, synthesizing research findings and analysis.\
+“Intervention Effect of Group Sensory Integration Training on Social Responsiveness and N170 Event-Related Potential of Children with Autism” (published in the “Behavioral Science” journal)
+
+<https://pubmed.ncbi.nlm.nih.gov/38540505/>
+
+## Project Experience
+
+**Optimizing Healthcare Resource Allocation and Path Planning**\
+The models of Markov decision process and Traveling Salesman Problem are combined together to improve the health condition of citizens within limited financial resources.
+
+[click to see the poster]("D:\SURF2024\Yifei200212.github.io\poster.jpg")
+
+**Investigation of the attitudes towards HPV vaccination** April 2023 - May\
+*R, Sojump*\
+• Survey Design and Implementation: Developed and executed comprehensive survey methodologies and questionnaires to assess the data.\
+• Data Analysis and Advocacy Using R: Utilized R to perform detailed statistical analysis, which facilitated a deeper understanding of HPV vaccine awareness and the urgency of vaccination

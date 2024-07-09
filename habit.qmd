@@ -1,12 +1,25 @@
 ---
-title: "habit"
+title: "Hobbies and Interests"
 format: html
 editor: visual
 ---
 
-## Piano
-
-
 ## Badminton
 
-## Travelling
+![](images/clipboard-682305705.png){fig-align="right" width="150"}
+
+Since entering university, I have gradually developed a passion for badminton. The thrill of making quick reflexes and split-second decisions in the game captivates me.
+
+However, the school's facilities are limited, making it difficult to get court time during the semester, so I usually indulge in it during the summer break.😁
+
+## Traveling
+
+![](images/clipboard-4117780064.png){fig-align="right" width="150"}
+
+China is vast and diverse, with each city boasting its unique culture and atmosphere. I love exploring different places, experiencing their beautiful scenery, and indulging in local delicacies.
+
+## Piano
+
+![](images/clipboard-3957735498.png){fig-align="right" width="150"}
+
+I enjoy playing the piano during my free time, both popular and classical music. By the time I graduated from high school, I had achieved Grade 8 from the Royal Academy of Music.

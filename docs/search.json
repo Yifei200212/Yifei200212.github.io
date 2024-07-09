@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Yifei’s Homepage",
     "section": "",
-    "text": "Xi’an Jiaotong-liverpool University Suzhou, Jiangsu\nBachelor of Biomedical Statistics Sep 2021 - Jun 2025\nGPA: 3.8/4.0 TOP 10%\nRelevant Coursework: Introduction to clinical trials, Phamacology, Medical Chemistry, Epidemiology, Biopharmaceutical and Pharmacokinetics, Biostatistics, Pharmaceutical Administration and Regulations"
+    "text": "E-mail: Yifei.Feng21@student.xjtlu.edu.cn\n\nphone:18014013090\n\nDate of birth:2002.12.02\n\nLocation: Suzhou, Jiangsu, China"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Yifei’s Homepage",
-    "section": "",
-    "text": "Xi’an Jiaotong-liverpool University Suzhou, Jiangsu\nBachelor of Biomedical Statistics Sep 2021 - Jun 2025\nGPA: 3.8/4.0 TOP 10%\nRelevant Coursework: Introduction to clinical trials, Phamacology, Medical Chemistry, Epidemiology, Biopharmaceutical and Pharmacokinetics, Biostatistics, Pharmaceutical Administration and Regulations"
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\nXi’an Jiaotong-liverpool University Suzhou, Jiangsu\nBachelor of Biomedical Statistics Sep 2021 - Jun 2025\nRelevant Coursework: Introduction to clinical trials, Phamacology, Medical Chemistry, Epidemiology, Biopharmaceutical and Pharmacokinetics, Biostatistics, Pharmaceutical Administration and Regulations\n |"
   },
   {
     "objectID": "index.html#research-experience",
@@ -25,7 +25,7 @@
     "href": "index.html#project-experience",
     "title": "Yifei’s Homepage",
     "section": "Project Experience",
-    "text": "Project Experience"
+    "text": "Project Experience\nInvestigation of the attitudes towards HPV vaccination April 2023 - May\nR, Sojump\n• Survey Design and Implementation: Developed and executed comprehensive survey methodologies and questionnaires to assess the data.\n• Data Analysis and Advocacy Using R: Utilized R to perform detailed statistical analysis, which facilitated a deeper understanding of HPV vaccine awareness and the urgency of vaccination"
   },
   {
     "objectID": "index.html#habit",
@@ -58,9 +58,9 @@
   {
     "objectID": "habit.html#badminton",
     "href": "habit.html#badminton",
-    "title": "habit",
-    "section": "Badminton",
-    "text": "Badminton"
+    "title": "Hobbies and Interests",
+    "section": "",
+    "text": "Since entering university, I have gradually developed a passion for badminton. The thrill of making quick reflexes and split-second decisions in the game captivates me.\nHowever, the school’s facilities are limited, making it difficult to get court time during the semester, so I usually indulge in it during the summer break.😁"
   },
   {
     "objectID": "habit.html#travelling",
@@ -68,5 +68,82 @@
     "title": "habit",
     "section": "Travelling",
     "text": "Travelling"
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "example.html#quarto",
+    "href": "example.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "example.html#running-code",
+    "href": "example.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Yifei’s Homepage",
+    "section": "Skills",
+    "text": "Skills\nAnalytical Tools: MS office softwares, SPSS, SAS, LaTex, EXCEL\nProgramming Languages: R, JAVA"
+  },
+  {
+    "objectID": "habit.html",
+    "href": "habit.html",
+    "title": "Hobbies and Interests",
+    "section": "",
+    "text": "Since entering university, I have gradually developed a passion for badminton. The thrill of making quick reflexes and split-second decisions in the game captivates me.\nHowever, the school’s facilities are limited, making it difficult to get court time during the semester, so I usually indulge in it during the summer break.😁"
+  },
+  {
+    "objectID": "habit.html#piano",
+    "href": "habit.html#piano",
+    "title": "Hobbies and Interests",
+    "section": "Piano",
+    "text": "Piano\n\n\n\n\n\nI enjoy playing the piano during my free time, both popular and classical music. By the time I graduated from high school, I had achieved Grade 8 from the Royal Academy of Music."
+  },
+  {
+    "objectID": "habit.html#traveling",
+    "href": "habit.html#traveling",
+    "title": "Hobbies and Interests",
+    "section": "Traveling",
+    "text": "Traveling\n\n\n\n\n\nChina is vast and diverse, with each city boasting its unique culture and atmosphere. I love exploring different places, experiencing their beautiful scenery, and indulging in local delicacies."
+  },
+  {
+    "objectID": "exp.html",
+    "href": "exp.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Academy of Pharmacy, Xi’an Jiaotong - Liverpool University Suzhou, Jiangsu\nImproving online health surveys in China- A Randomized Controlled Trial July 2023 - Present\nR,SPSS,EXCEL\n• Project Design and Implementation: Responsible for planning and executing the overall RCT experimental process, including sample selection, data collection, and preliminary data analysis.\n• Clinical Trial Registration and Ethical Approval: Registered a clinical experiment with the China Clinical Trials Registry (ChiCTR) and navigated the ethical approval process.\n• Academic Output: Authored and submitted a research paper on the RCT study, detailing the optimization process of the data collection platform and its significant impact on data quality.\nThe Autism Research Center, Soochow University Suzhou, Jiangsu\nA study on the event-related potential (ERP) in autistic patients March 2023 - June\nR, Zotero Neurophysiological Research Project Supervised by Prof. Deming Shu\n• Literature Review: Conducted comprehensive literature reviews to maintain a solid foundation of knowledge in the field.\n• Data Visualization and Analysis: Created graphs based on research data and analyzed differences in EEG patterns of children with autism before and after sensory integration training interventions.\n• Collaborative Paper Writing: Contributed to the writing of academic papers, synthesizing research findings and analysis.\n“Intervention Effect of Group Sensory Integration Training on Social Responsiveness and N170 Event-Related Potential of Children with Autism” (published in the “Behavioral Science” journal)\nhttps://pubmed.ncbi.nlm.nih.gov/38540505/"
+  },
+  {
+    "objectID": "exp.html#research-experience",
+    "href": "exp.html#research-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Academy of Pharmacy, Xi’an Jiaotong - Liverpool University Suzhou, Jiangsu\nImproving online health surveys in China- A Randomized Controlled Trial July 2023 - Present\nR,SPSS,EXCEL\n• Project Design and Implementation: Responsible for planning and executing the overall RCT experimental process, including sample selection, data collection, and preliminary data analysis.\n• Clinical Trial Registration and Ethical Approval: Registered a clinical experiment with the China Clinical Trials Registry (ChiCTR) and navigated the ethical approval process.\n• Academic Output: Authored and submitted a research paper on the RCT study, detailing the optimization process of the data collection platform and its significant impact on data quality.\nThe Autism Research Center, Soochow University Suzhou, Jiangsu\nA study on the event-related potential (ERP) in autistic patients March 2023 - June\nR, Zotero Neurophysiological Research Project Supervised by Prof. Deming Shu\n• Literature Review: Conducted comprehensive literature reviews to maintain a solid foundation of knowledge in the field.\n• Data Visualization and Analysis: Created graphs based on research data and analyzed differences in EEG patterns of children with autism before and after sensory integration training interventions.\n• Collaborative Paper Writing: Contributed to the writing of academic papers, synthesizing research findings and analysis.\n“Intervention Effect of Group Sensory Integration Training on Social Responsiveness and N170 Event-Related Potential of Children with Autism” (published in the “Behavioral Science” journal)\nhttps://pubmed.ncbi.nlm.nih.gov/38540505/"
+  },
+  {
+    "objectID": "exp.html#project-experience",
+    "href": "exp.html#project-experience",
+    "title": "Experience",
+    "section": "Project Experience",
+    "text": "Project Experience\nOptimizing Healthcare Resource Allocation and Path Planning\nThe models of Markov decision process and Traveling Salesman Problem are combined together to improve the health condition of citizens within limited financial resources.\nclick to see the poster\nInvestigation of the attitudes towards HPV vaccination April 2023 - May\nR, Sojump\n• Survey Design and Implementation: Developed and executed comprehensive survey methodologies and questionnaires to assess the data.\n• Data Analysis and Advocacy Using R: Utilized R to perform detailed statistical analysis, which facilitated a deeper understanding of HPV vaccine awareness and the urgency of vaccination"
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "Yifei’s Homepage",
+    "section": "",
+    "text": "E-mail: Yifei.Feng21@student.xjtlu.edu.cn\n\nphone:18014013090\n\nDate of birth:2002.12.02\n\nLocation: Suzhou, Jiangsu, China"
   }
 ]
